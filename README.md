@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alekhya
 - 👀 I’m interested in Kubernetes,Cloud Computing
 - 🌱 I’m currently learning Python
-- 😄 Pronouns: She
+- 😄 Pronouns: She/her
 - ⚡ Fun fact: ...
 
 <!---
