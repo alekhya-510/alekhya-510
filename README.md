@@ -29,7 +29,6 @@ Currently working on AWS-native, Kubernetes-first platforms — EKS, Terraform, 
 ## Certifications
 
 - 🏆 **Certified Kubernetes Administrator (CKA)** — CNCF, Nov 2024
-- 📜 **IBM DevOps Professional Certificate** — IBM / SimpliLearn
 
 ---
 
